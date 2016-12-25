@@ -12,10 +12,10 @@
 - hypriot/rpi-nano-httpd
 [![](https://badges.container.gallery/image/hypriot/rpi-nano-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/hypriot/rpi-nano-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- alpine:3.5
-[![](https://badges.container.gallery/image/alpine:3.5.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-[![](https://badges.container.gallery/version/alpine:3.5.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-[![](https://img.shields.io/badge/Grade-A+-blue.svg)]
+- alpine:3.4
+[![](https://badges.container.gallery/image/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+[![](https://badges.container.gallery/version/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+[![](https://img.shields.io/badge/Grade-A+-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
 
 
@@ -33,9 +33,9 @@
 - hypriot/rpi-nano-httpd
 [![](https://images.microbadger.com/badges/image/hypriot/rpi-nano-httpd.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/hypriot/rpi-nano-httpd.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own version badge on microbadger.com")
-- alpine:3.5
-[![](https://images.microbadger.com/badges/image/alpine:3.5.svg)](https://microbadger.com/images/alpine:3.5 "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/alpine:3.5.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own version badge on microbadger.com")
+- alpine:3.4
+[![](https://images.microbadger.com/badges/image/alpine:3.4.svg)](https://microbadger.com/images/alpine:3.4 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/alpine:3.4.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own version badge on microbadger.com")
 
 ---
 MIT License, 2016
