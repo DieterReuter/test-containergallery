@@ -1,4 +1,4 @@
-# test-imagegallery
+# test-containergallery
 
 - hypriot/rpi-golang
 [![](https://badges.container.gallery/image/hypriot/rpi-golang.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
