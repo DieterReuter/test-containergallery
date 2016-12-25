@@ -15,7 +15,7 @@
 - alpine:3.4
 [![](https://badges.container.gallery/image/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-[![](https://img.shields.io/badge/Grade-A+-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+[![](https://img.shields.io/badge/quality-A+-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
 
 
