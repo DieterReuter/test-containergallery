@@ -1,21 +1,33 @@
 # test-imagegallery
 
-- hypriot/rpi-golang [![](https://badges.container.gallery/image/hypriot/rpi-golang.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+- hypriot/rpi-golang
+[![](https://badges.container.gallery/image/hypriot/rpi-golang.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/hypriot/rpi-golang.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- hypriot/rpi-alpine-scratch [![](https://badges.container.gallery/image/hypriot/rpi-alpine-scratch.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+- hypriot/rpi-alpine-scratch
+[![](https://badges.container.gallery/image/hypriot/rpi-alpine-scratch.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/hypriot/rpi-alpine-scratch.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- hypriot/rpi-busybox-httpd [![](https://badges.container.gallery/image/hypriot/rpi-busybox-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+- hypriot/rpi-busybox-httpd
+[![](https://badges.container.gallery/image/hypriot/rpi-busybox-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/hypriot/rpi-busybox-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- hypriot/rpi-nano-httpd [![](https://badges.container.gallery/image/hypriot/rpi-nano-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+- hypriot/rpi-nano-httpd
+[![](https://badges.container.gallery/image/hypriot/rpi-nano-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/hypriot/rpi-nano-httpd.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
 
 # test-microbadger
 
-- hypriot/rpi-golang  
-- hypriot/rpi-alpine-scratch  
-- hypriot/rpi-busybox-httpd  
-- hypriot/rpi-nano-httpd  
+- hypriot/rpi-golang
+[![](https://images.microbadger.com/badges/image/hypriot/rpi-golang.svg)](https://microbadger.com/images/hypriot/rpi-golang "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/hypriot/rpi-golang.svg)](https://microbadger.com/images/hypriot/rpi-golang "Get your own version badge on microbadger.com")
+- hypriot/rpi-alpine-scratch
+[![](https://images.microbadger.com/badges/image/hypriot/rpi-alpine-scratch.svg)](https://microbadger.com/images/hypriot/rpi-alpine-scratch "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/hypriot/rpi-alpine-scratch.svg)](https://microbadger.com/images/hypriot/rpi-alpine-scratch "Get your own version badge on microbadger.com")
+- hypriot/rpi-busybox-httpd
+[![](https://images.microbadger.com/badges/image/hypriot/rpi-busybox-httpd.svg)](https://microbadger.com/images/hypriot/rpi-busybox-httpd "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/hypriot/rpi-busybox-httpd.svg)](https://microbadger.com/images/hypriot/rpi-busybox-httpd "Get your own version badge on microbadger.com")
+- hypriot/rpi-nano-httpd
+[![](https://images.microbadger.com/badges/image/hypriot/rpi-nano-httpd.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/hypriot/rpi-nano-httpd.svg)](https://microbadger.com/images/hypriot/rpi-nano-httpd "Get your own version badge on microbadger.com")
 
 ---
 MIT License, 2016
