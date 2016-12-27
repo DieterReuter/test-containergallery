@@ -16,10 +16,10 @@
 [![](https://badges.container.gallery/image/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://badges.container.gallery/version/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/quality-A+-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- resin/rpi-raspbian wheezy
+- resin/rpi-raspbian:wheezy
 [![](https://img.shields.io/badge/%2033MB%2F87MB%20-%2013%20layers%20-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/%20tag%20-%20wheezy%20-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
-- resin/rpi-raspbian jessie
+- resin/rpi-raspbian:jessie
 [![](https://img.shields.io/badge/%2044MB%2F118MB%20-%2018%20layers%20-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/%20tag%20-%20jessie%20-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
