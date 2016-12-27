@@ -17,7 +17,7 @@
 [![](https://badges.container.gallery/version/alpine:3.4.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/quality-A+-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 - resin/rpi-raspbian wheezy
-[![](https://img.shields.io/badge/33MBx87MB-13layers-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+[![](https://img.shields.io/badge/33MB%2F87MB-13%20layers-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
 
 
