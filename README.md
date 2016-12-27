@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/33MB%2F87MB-13%20layers-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/tag-wheezy-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 - resin/rpi-raspbian jessie
-[![](https://img.shields.io/badge/44MB%2F118MB-13%20layers-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
+[![](https://img.shields.io/badge/44MB%2F118MB-18%20layers-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 [![](https://img.shields.io/badge/tag-jessie-blue.svg)](https://container.gallery "Get your cool 🐳 Badges at Container.Gallery")
 
 
